@@ -8,8 +8,7 @@ int main() {
 	bool b;
 	b = (1 == 2);
 
-	cout << std::boolalpha;
-	cout << b << endl;
+	cout << boolalpha << b << '\n';
 
 	return 0;
 }
