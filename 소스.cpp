@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 	bool b;
-	b = (1 == 2);
+	b = (1 == 1);
 
 	cout << std::boolalpha;
 	cout << b << endl;
