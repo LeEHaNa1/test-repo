@@ -10,6 +10,7 @@ int main() {
 
 	cout << std::boolalpha;
 	cout << b << endl;
-
+        
+cout<<"fight";
 	return 0;
 }
