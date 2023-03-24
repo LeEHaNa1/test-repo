@@ -10,6 +10,6 @@ int main() {
 
 	cout << std::boolalpha;
 	cout << b << endl;
-
+	cout << "저는 이하나 입니다";
 	return 0;
 }
